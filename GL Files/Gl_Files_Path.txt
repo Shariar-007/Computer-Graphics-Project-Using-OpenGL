@@ -1,0 +1,4 @@
+glut32.dll: C:\Windows\System32
+	    C:\Windows\SysWOW64
+glut.h: C:\Program Files (x86)\CodeBlocks\MinGW\include\GL
+glut32.lib: C:\Program Files (x86)\CodeBlocks\MinGW\lib
